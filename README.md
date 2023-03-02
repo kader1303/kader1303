@@ -22,27 +22,34 @@
   - Me encuentro desarrollando una aplicación móvil en React Native para la misma editorial que da acceso a los usuarios al universo literario de la misma.
   - Además realizo la dirección de otros tantos proyectos y el testing de los mismos.
 
-<!--
 ## Proyectos
 
-- [Nombre de tu proyecto], [breve descripción], [fecha de finalización]
-  - [Enlace a tu proyecto]
-- [Nombre de otro proyecto], [breve descripción], [fecha de finalización]
-  - [Enlace a tu proyecto]
+- MC-U Tool, Software de reparación de teléfonos móviles, finalizado en el 2020
+  - https://github.com/kader1303/mcu-tool-script
+- D'McPherson Editorial APK, Aplicación para dispositivos móviles desarrollada en React Native con Typescript, todavía en proceso de actualizaciones.
+  - https://play.google.com/store/apps/details?id=com.dmcpherson
+- Lets Twitt, Extensión del navegador desarrollada con React y javascript para generar Twitts y notificaciones apoyandose en el API de Open AI, en proceso de desarrollo.
+  - https://github.com/kader1303/lets-twitt-react
+- A Manyar, Aplicación para dispositivos móviles desarrollada en React Native con Typescript paar delivery de comida en Cuba, en proceso de desarrollo.
+  - https://github.com/kader1303/a-manyar
+- MECS, Aplicación desarrollada en C# para controlar la gestión de procesos en la Editorial DMcPherson, finalizada en el 2022
+  - Esta aplicación es privada.
+-  Además de esto he participado y participo como Project Manager, Tester y en el despliegue de las siguientes aplicaciones:
+  - D'McPherson Editorial Web: https://www.dmcphersoneditorial.com/ 
+  - D'McPherson Diseños Web: https://decomcpherson.com/
+
 
 ## Habilidades
 
-- [Lista de habilidades relevantes para tu campo de estudio o profesión]
-- [Ejemplo: Habilidades de programación: Python, Java, JavaScript, etc.]
+- Autoit, C#, JavaScript, Typescript, MySQL, Nodejs, React Native, AWS, Server managment.
 
 ## Contacto
 
-- [Correo electrónico]
-- [LinkedIn]
-- [Twitter]
-- [Otra red social o forma de contacto]
+- redakdev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kader-g%C3%B3mez-c%C3%A9spedes-86baab264/
+- Twitter: @KaderGomezDev
 
-
+<!--
 
 **kader1303/kader1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
