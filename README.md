@@ -31,7 +31,6 @@
 - Lets Twitt, Extensión del navegador desarrollada con React y javascript para generar Twitts y notificaciones apoyandose en el API de Open AI, en proceso de desarrollo.
   - https://github.com/kader1303/lets-twitt-react
 - A Manyar, Aplicación para dispositivos móviles desarrollada en React Native con Typescript paar delivery de comida en Cuba, en proceso de desarrollo.
-  - https://github.com/kader1303/a-manyar
 - MECS, Aplicación desarrollada en C# para controlar la gestión de procesos en la Editorial DMcPherson, finalizada en el 2022
   - Esta aplicación es privada.
 -  Además de esto he participado y participo como Project Manager, Tester y en el despliegue de las siguientes aplicaciones:
@@ -47,7 +46,7 @@
 
 - redakdev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kader-g%C3%B3mez-c%C3%A9spedes-86baab264/
-- Twitter: @KaderGomezDev
+- Twitter: https://twitter.com/KaderGomezDev
 
 <!--
 
