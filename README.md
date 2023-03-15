@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-¡Hola! Soy Kader, tengo 31 años, y soy Ingerniero Civil de título pero desarrollador por corazón. Actualmente, trabajo como Full Stack para D'McPherson Diseños, D'McPherson Editorial, MC imprenta, Cukbanía y entre otros proyectos de la provincia donde vivo y un poquito más allá. Además, disfruto de desarrollar algunos proyectos personales que me sirven para aprnder y mantener la motivación diaria. Me gusta mucho el fútbol y sobre todo el Real Madrid...
+¡Hola! Soy Kader, tengo 31 años, y soy Ingeniero Civil de título pero desarrollador por corazón. Actualmente, trabajo como Full Stack para D'McPherson Diseños, D'McPherson Editorial, MC imprenta, Cukbanía y entre otros proyectos de la provincia donde vivo y un poquito más allá. Además, disfruto de desarrollar algunos proyectos personales que me sirven para aprnder y mantener la motivación diaria. Me gusta mucho el fútbol y sobre todo el Real Madrid...
 
 ## Educación
 
@@ -40,7 +40,7 @@
 
 ## Habilidades
 
-- Autoit, C#, JavaScript, Typescript, MySQL, Nodejs, React Native, AWS, Server managment.
+- Autoit, C#, JavaScript, Typescript, MySQL, Nodejs, React Native, AWS, Server managment, Linux, VPS.
 
 ## Contacto
 
