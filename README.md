@@ -29,10 +29,10 @@
 - D'McPherson Editorial APK, Aplicación para dispositivos móviles desarrollada en React Native con Typescript, todavía en proceso de actualizaciones.
   - https://play.google.com/store/apps/details?id=com.dmcpherson
 - Lets Twitt, Extensión del navegador desarrollada con React y javascript para generar Twitts y notificaciones apoyandose en el API de Open AI, en proceso de desarrollo.
-  - https://github.com/kader1303/lets-twitt-react
+  - [Let's Twitt](https://github.com/kader1303/Lets-Twitt-Ts)
 - A Manyar, Aplicación para dispositivos móviles desarrollada en React Native con Typescript paar delivery de comida en Cuba, en proceso de desarrollo.
 - MECS, Aplicación desarrollada en C# para controlar la gestión de procesos en la Editorial DMcPherson, finalizada en el 2022
-  - Esta aplicación es privada.
+  - [MECS](https://1drv.ms/v/s!AoScFW6xlNY3lsp3dBPQmRJB5eNOzA?e=eC36aR)
 -  Además de esto he participado y participo como Project Manager, Tester y en el despliegue de las siguientes aplicaciones:
   - D'McPherson Editorial Web: https://www.dmcphersoneditorial.com/ 
   - D'McPherson Diseños Web: https://decomcpherson.com/
