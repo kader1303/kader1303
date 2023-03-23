@@ -45,7 +45,7 @@
 ## Contacto
 
 - redakdev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kader-g%C3%B3mez-c%C3%A9spedes-86baab264/
+- LinkedIn: https://www.linkedin.com/in/kadergomezdev
 - Twitter: https://twitter.com/KaderGomezDev
 
 <!--
